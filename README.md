@@ -6,6 +6,6 @@ In terms of code, it's no big deal, just Bootstrap and a free theme.
 
 The reasoning behind it: Create a simple collection of key events or milestones in the development of artificial intelligence. It's not meant to include every person or every event related to the field of AI.
 
-[See the live page here.](https://macloo.github.io/ai-timeline/)
+[See the live page here.](https://github.com/macloo/ai-timeline)
 
 .
